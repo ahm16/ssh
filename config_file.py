@@ -1,0 +1,1 @@
+host_conf = ['show vlan br','sh ip int g1/0/1']
